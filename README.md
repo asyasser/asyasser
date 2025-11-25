@@ -2,7 +2,7 @@
 <h3 align="center">AI Student| Data Scientist | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=blue&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=asyasser&label=Profile%20Views&color=blue&style=flat" alt="views" />
 </p>
 
 ---
