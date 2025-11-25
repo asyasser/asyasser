@@ -45,17 +45,8 @@
 
 ---
 
-## 📂 Highlight Projects
-- 🤖 **AI/ML Project:** Your description here  
-- 📊 **Data Engineering Project:** Your description here  
-- 🔥 **Deep Learning Project:** Your description here  
-
----
-
-
 
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/username  
-- Email: **your.email@example.com**
+- LinkedIn: https://www.linkedin.com/in/yasser-assou/
