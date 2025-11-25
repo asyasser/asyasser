@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm username</h1>
-<h3 align="center">Software Engineer | Data Scientist | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Yasser</h1>
+<h3 align="center">AI Student| Data Scientist | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=blue&style=flat" alt="views" />
@@ -8,9 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I am a **Mathematical Engineering & Data Science** student / engineer
+- 🎓 I am a **Artificial Intelligence & Applications** student
 - 💻 Passionate about **Machine Learning, Deep Learning, and Data Engineering**
-- 🧠 Currently working on advanced projects in **AI, Neural Networks, NLP, and Automation**
 - 🔍 Always exploring new technologies and improving my skills
 
 ---
