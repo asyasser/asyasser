@@ -10,6 +10,10 @@
 - 🔍 Always exploring new technologies and improving my skills
 
 ---
+## Projects : 
+- [Energy Consumption Forecasting System](https://github.com/asyasser/household_power_consumption/tree/main)
+
+---
 
 ## 🛠️ Technologies & Tools
 
