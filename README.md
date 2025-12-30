@@ -12,6 +12,7 @@
 ---
 ## Projects : 
 - [Energy Consumption Forecasting System](https://github.com/asyasser/household_power_consumption/tree/main)
+- [IMDB Movie Review Sentiment Analysis Using Fine-Tuned DistilBERT](https://github.com/asyasser/IMDB_review_sentiment_analysis)
 
 ---
 
